@@ -1,6 +1,6 @@
 # Bayt-al-Hikma
 
-The name Bayt al-Hikma (House of Wisdom) comes from the great intellectual center in Baghdad, established under Harun al-Rashid and expanded during the Abbasid era.
+The name **Bayt al-Hikma** (House of Wisdom) comes from the great intellectual center in Baghdad, established under Harun al-Rashid and expanded during the Abbasid era.
 
 It was not just a library—it was:
 A centralized learning hub
